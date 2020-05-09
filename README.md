@@ -13,8 +13,6 @@
 
 ## Renders
 
-### The "Motherboard"
-
 <p>
   <img alt="Motherboard Picture" src="./res/schemes/V2/Motherboard%20(Picture%201).jpg" height="240">
   <img alt="Motherboard Picture" src="./res/schemes/V2/Motherboard%20(Picture%202).jpg" height="240">
