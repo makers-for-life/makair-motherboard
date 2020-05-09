@@ -13,10 +13,17 @@
 
 ## Renders
 
+### The "Motherboard"
+
 <p>
   <img alt="Motherboard Picture" src="./res/schemes/V2/Motherboard%20(Picture%201).jpg" height="240">
   <img alt="Motherboard Picture" src="./res/schemes/V2/Motherboard%20(Picture%202).jpg" height="240">
   <img alt="Motherboard Picture" src="./res/schemes/V2/Motherboard%20(Picture%203).jpg" height="240">
   <img alt="Motherboard Picture" src="./res/schemes/V2/Motherboard%20(Picture%204).jpg" height="240">
-  <img alt="Motherboard Picture" src="./res/schemes/V2/Motherboard%20(Picture%205).jpg" height="240">
+</p>
+
+### The "Control Panel"
+
+<p>
+  <img alt="Control Panel Picture" src="./res/schemes/V2/Control%20Panel%20(Picture%201).jpg" height="240">
 </p>
