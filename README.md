@@ -1,9 +1,15 @@
 # MakAir Motherboard
 
+## Versions
+
 | Version | Last Changelog | Ready? | Schematics |
 | ------- | -------------- | ------ | ---------- |
 | V1.1 | Working PCB w/ software | ✅ | none
 | V2.0 | Version Two | ✅ | [view schematic](./src/schematics/V2/Electrical%20Schematics.pdf)
+
+## Notes
+
+* All the electronics schematics and PCB designs were made by engineers from [Tronico](https://www.tronico-alcen.com/en), a France-based electronic systems designers and manufacturer, with on-site PCB manufacturing capabilities.
 
 ## Renders
 
