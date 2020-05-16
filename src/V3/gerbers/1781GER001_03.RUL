@@ -1,0 +1,16 @@
+DRC Rules Export File for PCB: C:\0 - TRONICO\0 - Cartes\099_TRONICO\099_MAKAIR\1781DC111_Carte_Respirateur_Artificiel_MAKAIR_V2\Placement_Routage_Gerbers\1781CAO001.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_RF|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_PLAN_TNM|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance_KeepOut|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_USB_GND|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_USB_500V|Scope=Board|Minimum=295.28
+RuleKind=Clearance|RuleName=Clearance_USB_nc|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width_alim|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width - NetClass - RoutingClass_5(RuleSet)|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance - Default - DEFAULT- SMD|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance - Default - DEFAULT - Via|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance - Default - DEFAULT - Net|Scope=Board|Minimum=9.00
+RuleKind=Width|RuleName=Default Width|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
