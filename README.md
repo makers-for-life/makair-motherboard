@@ -2,11 +2,11 @@
 
 ## Versions
 
-| Version | Last Changelog | Ready? | Schematics |
-| ------- | -------------- | ------ | ---------- |
-| V1.1 | Working PCB w/ software | ✅ | none
-| V2.0 | Version Two | ✅ | [view schematic](./src/schematics/Archives/V2/Electrical%20Schematics.pdf)
-| V3.0 | Added pressure sensors + more systems have been integrated on the board | ✅ | [view schematic](./src/schematics/V3/Electrical%20Schematics.pdf)
+| Version | Last Changelog | Ready? | Schematics | Live CAD Models |
+| ------- | -------------- | ------ | ---------- | --------------- |
+| V1.1 | Working PCB w/ software | ✅ | none | none
+| V2.0 | Version Two | ✅ | [view schematic](./src/schematics/Archives/V2/Electrical%20Schematics.pdf) | none
+| V3.0 | Added pressure sensors + more systems have been integrated on the board | ✅ | [view schematic](./src/schematics/V3/Electrical%20Schematics.pdf) | [view model](https://a360.co/3eaMoN0)
 
 ## Notes
 
