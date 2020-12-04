@@ -23,3 +23,9 @@
   <img alt="Motherboard Picture" src="./res/schemes/V3/Motherboard%20(Picture%204).jpg" height="240">
   <img alt="Motherboard Picture" src="./res/schemes/V3/Motherboard%20(Picture%205).jpg" height="240">
 </p>
+
+### Gerbers
+
+<p>
+  <img alt="Gerbers View" src="./res/schemes/V3/Gerbers%20(View%201)" height="520">
+</p>
