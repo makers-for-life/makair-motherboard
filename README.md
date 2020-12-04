@@ -14,7 +14,7 @@
 
 ## Renders
 
-### The "Motherboard"
+### Final Motherboard
 
 <p>
   <img alt="Motherboard Picture" src="./res/schemes/V3/Motherboard%20(Picture%201).jpg" height="480">
