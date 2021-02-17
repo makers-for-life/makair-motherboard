@@ -16,16 +16,16 @@
 
 ### Final Motherboard
 
-<p>
-  <img alt="Motherboard Picture" src="./res/schemes/V3/Motherboard%20(Picture%201).jpg" height="480">
-  <img alt="Motherboard Picture" src="./res/schemes/V3/Motherboard%20(Picture%202).jpg" height="240">
-  <img alt="Motherboard Picture" src="./res/schemes/V3/Motherboard%20(Picture%203).jpg" height="240">
-  <img alt="Motherboard Picture" src="./res/schemes/V3/Motherboard%20(Picture%204).jpg" height="240">
-  <img alt="Motherboard Picture" src="./res/schemes/V3/Motherboard%20(Picture%205).jpg" height="240">
+<p align="center">
+  <img alt="Motherboard Picture" src="./res/schemes/V3/Motherboard%20(Picture%201).jpg" width="576">
+  <img alt="Motherboard Picture" src="./res/schemes/V3/Motherboard%20(Picture%202).jpg" width="288">
+  <img alt="Motherboard Picture" src="./res/schemes/V3/Motherboard%20(Picture%203).jpg" width="288">
+  <img alt="Motherboard Picture" src="./res/schemes/V3/Motherboard%20(Picture%204).jpg" width="288">
+  <img alt="Motherboard Picture" src="./res/schemes/V3/Motherboard%20(Picture%205).jpg" width="288">
 </p>
 
 ### Gerbers
 
-<p>
-  <img alt="Gerbers View" src="./res/schemes/V3/Gerbers%20(View%201).png" height="520">
+<p align="center">
+  <img alt="Gerbers View" src="./res/schemes/V3/Gerbers%20(View%201).png" width="689">
 </p>
